@@ -5,7 +5,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/news-aggregator.git
+    git clone https://github.com/DavidSlinko/News.git
     cd news-aggregator
     ```
 
